@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Vaani-bisht/LeetCode-Questions/tree/master/0001-two-sum) |
 | [0242-valid-anagram](https://github.com/Vaani-bisht/LeetCode-Questions/tree/master/0242-valid-anagram) |
+| [3779-minimum-number-of-operations-to-have-distinct-elements](https://github.com/Vaani-bisht/LeetCode-Questions/tree/master/3779-minimum-number-of-operations-to-have-distinct-elements) |
 ## String
 |  |
 | ------- |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Vaani-bisht/LeetCode-Questions/tree/master/0001-two-sum) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Vaani-bisht/LeetCode-Questions/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3779-minimum-number-of-operations-to-have-distinct-elements](https://github.com/Vaani-bisht/LeetCode-Questions/tree/master/3779-minimum-number-of-operations-to-have-distinct-elements) |
 ## Math
 |  |
 | ------- |
