@@ -83,4 +83,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2843-count-symmetric-integers](https://github.com/Vaani-bisht/LeetCode-Questions/tree/master/2843-count-symmetric-integers) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/Vaani-bisht/LeetCode-Questions/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
