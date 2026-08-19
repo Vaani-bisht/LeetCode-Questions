@@ -23,12 +23,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Vaani-bisht/LeetCode-Questions/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/Vaani-bisht/LeetCode-Questions/tree/master/0056-merge-intervals) |
+| [0088-merge-sorted-array](https://github.com/Vaani-bisht/LeetCode-Questions/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/Vaani-bisht/LeetCode-Questions/tree/master/0242-valid-anagram) |
 ## Two Pointers
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Vaani-bisht/LeetCode-Questions/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/Vaani-bisht/LeetCode-Questions/tree/master/0015-3sum) |
+| [0088-merge-sorted-array](https://github.com/Vaani-bisht/LeetCode-Questions/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/Vaani-bisht/LeetCode-Questions/tree/master/0151-reverse-words-in-a-string) |
 ## Stack
 |  |
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Vaani-bisht/LeetCode-Questions/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/Vaani-bisht/LeetCode-Questions/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/Vaani-bisht/LeetCode-Questions/tree/master/0056-merge-intervals) |
+| [0088-merge-sorted-array](https://github.com/Vaani-bisht/LeetCode-Questions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vaani-bisht/LeetCode-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0560-subarray-sum-equals-k](https://github.com/Vaani-bisht/LeetCode-Questions/tree/master/0560-subarray-sum-equals-k) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Vaani-bisht/LeetCode-Questions/tree/master/3432-count-partitions-with-even-sum-difference) |
