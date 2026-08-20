@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Vaani-bisht/LeetCode-Questions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vaani-bisht/LeetCode-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0560-subarray-sum-equals-k](https://github.com/Vaani-bisht/LeetCode-Questions/tree/master/0560-subarray-sum-equals-k) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Vaani-bisht/LeetCode-Questions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Vaani-bisht/LeetCode-Questions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3779-minimum-number-of-operations-to-have-distinct-elements](https://github.com/Vaani-bisht/LeetCode-Questions/tree/master/3779-minimum-number-of-operations-to-have-distinct-elements) |
 ## Math
@@ -88,4 +89,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0175-combine-two-tables](https://github.com/Vaani-bisht/LeetCode-Questions/tree/master/0175-combine-two-tables) |
 | [0176-second-highest-salary](https://github.com/Vaani-bisht/LeetCode-Questions/tree/master/0176-second-highest-salary) |
+## Simulation
+|  |
+| ------- |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Vaani-bisht/LeetCode-Questions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 <!---LeetCode Topics End-->
