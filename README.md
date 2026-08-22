@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Vaani-bisht/LeetCode-Questions/tree/master/0009-palindrome-number) |
 | [2843-count-symmetric-integers](https://github.com/Vaani-bisht/LeetCode-Questions/tree/master/2843-count-symmetric-integers) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Vaani-bisht/LeetCode-Questions/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Vaani-bisht/LeetCode-Questions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Prefix Sum
 |  |
 | ------- |
