@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Vaani-bisht/LeetCode-Questions/tree/master/0001-two-sum) |
 | [0242-valid-anagram](https://github.com/Vaani-bisht/LeetCode-Questions/tree/master/0242-valid-anagram) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Vaani-bisht/LeetCode-Questions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Vaani-bisht/LeetCode-Questions/tree/master/0560-subarray-sum-equals-k) |
 | [3779-minimum-number-of-operations-to-have-distinct-elements](https://github.com/Vaani-bisht/LeetCode-Questions/tree/master/3779-minimum-number-of-operations-to-have-distinct-elements) |
 ## String
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Vaani-bisht/LeetCode-Questions/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/Vaani-bisht/LeetCode-Questions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vaani-bisht/LeetCode-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Vaani-bisht/LeetCode-Questions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Vaani-bisht/LeetCode-Questions/tree/master/0560-subarray-sum-equals-k) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/Vaani-bisht/LeetCode-Questions/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [2960-count-tested-devices-after-test-operations](https://github.com/Vaani-bisht/LeetCode-Questions/tree/master/2960-count-tested-devices-after-test-operations) |
