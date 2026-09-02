@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Vaani-bisht/LeetCode-Questions/tree/master/0001-two-sum) |
+| [0202-happy-number](https://github.com/Vaani-bisht/LeetCode-Questions/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/Vaani-bisht/LeetCode-Questions/tree/master/0242-valid-anagram) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Vaani-bisht/LeetCode-Questions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Vaani-bisht/LeetCode-Questions/tree/master/0560-subarray-sum-equals-k) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Vaani-bisht/LeetCode-Questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/Vaani-bisht/LeetCode-Questions/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/Vaani-bisht/LeetCode-Questions/tree/master/0151-reverse-words-in-a-string) |
+| [0202-happy-number](https://github.com/Vaani-bisht/LeetCode-Questions/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/Vaani-bisht/LeetCode-Questions/tree/master/0344-reverse-string) |
 ## Stack
 |  |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Vaani-bisht/LeetCode-Questions/tree/master/0009-palindrome-number) |
+| [0202-happy-number](https://github.com/Vaani-bisht/LeetCode-Questions/tree/master/0202-happy-number) |
 | [2843-count-symmetric-integers](https://github.com/Vaani-bisht/LeetCode-Questions/tree/master/2843-count-symmetric-integers) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Vaani-bisht/LeetCode-Questions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Vaani-bisht/LeetCode-Questions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -127,4 +130,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2960-count-tested-devices-after-test-operations](https://github.com/Vaani-bisht/LeetCode-Questions/tree/master/2960-count-tested-devices-after-test-operations) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/Vaani-bisht/LeetCode-Questions/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
