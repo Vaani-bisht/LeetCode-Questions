@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Vaani-bisht/LeetCode-Questions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Vaani-bisht/LeetCode-Questions/tree/master/0151-reverse-words-in-a-string) |
 | [0202-happy-number](https://github.com/Vaani-bisht/LeetCode-Questions/tree/master/0202-happy-number) |
+| [0287-find-the-duplicate-number](https://github.com/Vaani-bisht/LeetCode-Questions/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Vaani-bisht/LeetCode-Questions/tree/master/0344-reverse-string) |
 ## Stack
 |  |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Vaani-bisht/LeetCode-Questions/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/Vaani-bisht/LeetCode-Questions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vaani-bisht/LeetCode-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0287-find-the-duplicate-number](https://github.com/Vaani-bisht/LeetCode-Questions/tree/master/0287-find-the-duplicate-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Vaani-bisht/LeetCode-Questions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Vaani-bisht/LeetCode-Questions/tree/master/0560-subarray-sum-equals-k) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/Vaani-bisht/LeetCode-Questions/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/Vaani-bisht/LeetCode-Questions/tree/master/0287-find-the-duplicate-number) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/Vaani-bisht/LeetCode-Questions/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 ## Counting
 |  |
@@ -139,4 +142,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Vaani-bisht/LeetCode-Questions/tree/master/0202-happy-number) |
+| [0287-find-the-duplicate-number](https://github.com/Vaani-bisht/LeetCode-Questions/tree/master/0287-find-the-duplicate-number) |
+## Binary Search
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Vaani-bisht/LeetCode-Questions/tree/master/0287-find-the-duplicate-number) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Vaani-bisht/LeetCode-Questions/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
