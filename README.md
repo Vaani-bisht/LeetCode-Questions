@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Vaani-bisht/LeetCode-Questions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Vaani-bisht/LeetCode-Questions/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/Vaani-bisht/LeetCode-Questions/tree/master/0713-subarray-product-less-than-k) |
+| [2226-maximum-candies-allocated-to-k-children](https://github.com/Vaani-bisht/LeetCode-Questions/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/Vaani-bisht/LeetCode-Questions/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [2960-count-tested-devices-after-test-operations](https://github.com/Vaani-bisht/LeetCode-Questions/tree/master/2960-count-tested-devices-after-test-operations) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Vaani-bisht/LeetCode-Questions/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Vaani-bisht/LeetCode-Questions/tree/master/0287-find-the-duplicate-number) |
 | [0713-subarray-product-less-than-k](https://github.com/Vaani-bisht/LeetCode-Questions/tree/master/0713-subarray-product-less-than-k) |
+| [2226-maximum-candies-allocated-to-k-children](https://github.com/Vaani-bisht/LeetCode-Questions/tree/master/2226-maximum-candies-allocated-to-k-children) |
 ## Pigeonhole Principle
 |  |
 | ------- |
