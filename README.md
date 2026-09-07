@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Vaani-bisht/LeetCode-Questions/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/Vaani-bisht/LeetCode-Questions/tree/master/0242-valid-anagram) |
 | [0455-assign-cookies](https://github.com/Vaani-bisht/LeetCode-Questions/tree/master/0455-assign-cookies) |
+| [0881-boats-to-save-people](https://github.com/Vaani-bisht/LeetCode-Questions/tree/master/0881-boats-to-save-people) |
 ## Two Pointers
 |  |
 | ------- |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Vaani-bisht/LeetCode-Questions/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Vaani-bisht/LeetCode-Questions/tree/master/0344-reverse-string) |
 | [0455-assign-cookies](https://github.com/Vaani-bisht/LeetCode-Questions/tree/master/0455-assign-cookies) |
+| [0881-boats-to-save-people](https://github.com/Vaani-bisht/LeetCode-Questions/tree/master/0881-boats-to-save-people) |
 ## Stack
 |  |
 | ------- |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Vaani-bisht/LeetCode-Questions/tree/master/0455-assign-cookies) |
 | [0560-subarray-sum-equals-k](https://github.com/Vaani-bisht/LeetCode-Questions/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/Vaani-bisht/LeetCode-Questions/tree/master/0713-subarray-product-less-than-k) |
+| [0881-boats-to-save-people](https://github.com/Vaani-bisht/LeetCode-Questions/tree/master/0881-boats-to-save-people) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/Vaani-bisht/LeetCode-Questions/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Vaani-bisht/LeetCode-Questions/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2187-minimum-time-to-complete-trips](https://github.com/Vaani-bisht/LeetCode-Questions/tree/master/2187-minimum-time-to-complete-trips) |
@@ -182,5 +185,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/Vaani-bisht/LeetCode-Questions/tree/master/0455-assign-cookies) |
+| [0881-boats-to-save-people](https://github.com/Vaani-bisht/LeetCode-Questions/tree/master/0881-boats-to-save-people) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Vaani-bisht/LeetCode-Questions/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
+## Timsort
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/Vaani-bisht/LeetCode-Questions/tree/master/0881-boats-to-save-people) |
 <!---LeetCode Topics End-->
