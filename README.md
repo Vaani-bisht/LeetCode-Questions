@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Vaani-bisht/LeetCode-Questions/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/Vaani-bisht/LeetCode-Questions/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/Vaani-bisht/LeetCode-Questions/tree/master/0242-valid-anagram) |
+| [0455-assign-cookies](https://github.com/Vaani-bisht/LeetCode-Questions/tree/master/0455-assign-cookies) |
 ## Two Pointers
 |  |
 | ------- |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Vaani-bisht/LeetCode-Questions/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/Vaani-bisht/LeetCode-Questions/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Vaani-bisht/LeetCode-Questions/tree/master/0344-reverse-string) |
+| [0455-assign-cookies](https://github.com/Vaani-bisht/LeetCode-Questions/tree/master/0455-assign-cookies) |
 ## Stack
 |  |
 | ------- |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Vaani-bisht/LeetCode-Questions/tree/master/0219-contains-duplicate-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Vaani-bisht/LeetCode-Questions/tree/master/0287-find-the-duplicate-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Vaani-bisht/LeetCode-Questions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0455-assign-cookies](https://github.com/Vaani-bisht/LeetCode-Questions/tree/master/0455-assign-cookies) |
 | [0560-subarray-sum-equals-k](https://github.com/Vaani-bisht/LeetCode-Questions/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/Vaani-bisht/LeetCode-Questions/tree/master/0713-subarray-product-less-than-k) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/Vaani-bisht/LeetCode-Questions/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
@@ -99,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Vaani-bisht/LeetCode-Questions/tree/master/0056-merge-intervals) |
+| [0455-assign-cookies](https://github.com/Vaani-bisht/LeetCode-Questions/tree/master/0455-assign-cookies) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -175,5 +179,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/Vaani-bisht/LeetCode-Questions/tree/master/0455-assign-cookies) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Vaani-bisht/LeetCode-Questions/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 <!---LeetCode Topics End-->
