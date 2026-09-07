@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Vaani-bisht/LeetCode-Questions/tree/master/0242-valid-anagram) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Vaani-bisht/LeetCode-Questions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Vaani-bisht/LeetCode-Questions/tree/master/0560-subarray-sum-equals-k) |
+| [2418-sort-the-people](https://github.com/Vaani-bisht/LeetCode-Questions/tree/master/2418-sort-the-people) |
 | [3779-minimum-number-of-operations-to-have-distinct-elements](https://github.com/Vaani-bisht/LeetCode-Questions/tree/master/3779-minimum-number-of-operations-to-have-distinct-elements) |
 ## String
 |  |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Vaani-bisht/LeetCode-Questions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Vaani-bisht/LeetCode-Questions/tree/master/0344-reverse-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Vaani-bisht/LeetCode-Questions/tree/master/1021-remove-outermost-parentheses) |
+| [2418-sort-the-people](https://github.com/Vaani-bisht/LeetCode-Questions/tree/master/2418-sort-the-people) |
 ## Sorting
 |  |
 | ------- |
@@ -34,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Vaani-bisht/LeetCode-Questions/tree/master/0242-valid-anagram) |
 | [0455-assign-cookies](https://github.com/Vaani-bisht/LeetCode-Questions/tree/master/0455-assign-cookies) |
 | [0881-boats-to-save-people](https://github.com/Vaani-bisht/LeetCode-Questions/tree/master/0881-boats-to-save-people) |
+| [2418-sort-the-people](https://github.com/Vaani-bisht/LeetCode-Questions/tree/master/2418-sort-the-people) |
 ## Two Pointers
 |  |
 | ------- |
@@ -79,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Vaani-bisht/LeetCode-Questions/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2187-minimum-time-to-complete-trips](https://github.com/Vaani-bisht/LeetCode-Questions/tree/master/2187-minimum-time-to-complete-trips) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/Vaani-bisht/LeetCode-Questions/tree/master/2226-maximum-candies-allocated-to-k-children) |
+| [2418-sort-the-people](https://github.com/Vaani-bisht/LeetCode-Questions/tree/master/2418-sort-the-people) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/Vaani-bisht/LeetCode-Questions/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [2960-count-tested-devices-after-test-operations](https://github.com/Vaani-bisht/LeetCode-Questions/tree/master/2960-count-tested-devices-after-test-operations) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Vaani-bisht/LeetCode-Questions/tree/master/3069-distribute-elements-into-two-arrays-i) |
