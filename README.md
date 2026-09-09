@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Vaani-bisht/LeetCode-Questions/tree/master/0001-two-sum) |
+| [0128-longest-consecutive-sequence](https://github.com/Vaani-bisht/LeetCode-Questions/tree/master/0128-longest-consecutive-sequence) |
 | [0202-happy-number](https://github.com/Vaani-bisht/LeetCode-Questions/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/Vaani-bisht/LeetCode-Questions/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Vaani-bisht/LeetCode-Questions/tree/master/0242-valid-anagram) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Vaani-bisht/LeetCode-Questions/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/Vaani-bisht/LeetCode-Questions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vaani-bisht/LeetCode-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/Vaani-bisht/LeetCode-Questions/tree/master/0128-longest-consecutive-sequence) |
 | [0219-contains-duplicate-ii](https://github.com/Vaani-bisht/LeetCode-Questions/tree/master/0219-contains-duplicate-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Vaani-bisht/LeetCode-Questions/tree/master/0287-find-the-duplicate-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Vaani-bisht/LeetCode-Questions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -207,4 +209,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/Vaani-bisht/LeetCode-Questions/tree/master/0881-boats-to-save-people) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Vaani-bisht/LeetCode-Questions/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
