@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Vaani-bisht/LeetCode-Questions/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Vaani-bisht/LeetCode-Questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/Vaani-bisht/LeetCode-Questions/tree/master/0049-group-anagrams) |
+| [0067-add-binary](https://github.com/Vaani-bisht/LeetCode-Questions/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Vaani-bisht/LeetCode-Questions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Vaani-bisht/LeetCode-Questions/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Vaani-bisht/LeetCode-Questions/tree/master/0242-valid-anagram) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Vaani-bisht/LeetCode-Questions/tree/master/0009-palindrome-number) |
+| [0067-add-binary](https://github.com/Vaani-bisht/LeetCode-Questions/tree/master/0067-add-binary) |
 | [0202-happy-number](https://github.com/Vaani-bisht/LeetCode-Questions/tree/master/0202-happy-number) |
 | [2843-count-symmetric-integers](https://github.com/Vaani-bisht/LeetCode-Questions/tree/master/2843-count-symmetric-integers) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Vaani-bisht/LeetCode-Questions/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Vaani-bisht/LeetCode-Questions/tree/master/0067-add-binary) |
 | [2960-count-tested-devices-after-test-operations](https://github.com/Vaani-bisht/LeetCode-Questions/tree/master/2960-count-tested-devices-after-test-operations) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Vaani-bisht/LeetCode-Questions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## String Matching
@@ -175,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Vaani-bisht/LeetCode-Questions/tree/master/0067-add-binary) |
 | [0287-find-the-duplicate-number](https://github.com/Vaani-bisht/LeetCode-Questions/tree/master/0287-find-the-duplicate-number) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/Vaani-bisht/LeetCode-Questions/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 ## Counting
