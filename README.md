@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-max-number-of-k-sum-pairs](https://github.com/Vaani-bisht/LeetCode-Questions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2418-sort-the-people](https://github.com/Vaani-bisht/LeetCode-Questions/tree/master/2418-sort-the-people) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/Vaani-bisht/LeetCode-Questions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Vaani-bisht/LeetCode-Questions/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3779-minimum-number-of-operations-to-have-distinct-elements](https://github.com/Vaani-bisht/LeetCode-Questions/tree/master/3779-minimum-number-of-operations-to-have-distinct-elements) |
 ## String
 |  |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/Vaani-bisht/LeetCode-Questions/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [2960-count-tested-devices-after-test-operations](https://github.com/Vaani-bisht/LeetCode-Questions/tree/master/2960-count-tested-devices-after-test-operations) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Vaani-bisht/LeetCode-Questions/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Vaani-bisht/LeetCode-Questions/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Vaani-bisht/LeetCode-Questions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3779-minimum-number-of-operations-to-have-distinct-elements](https://github.com/Vaani-bisht/LeetCode-Questions/tree/master/3779-minimum-number-of-operations-to-have-distinct-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Vaani-bisht/LeetCode-Questions/tree/master/3875-construct-uniform-parity-array-i) |
@@ -232,4 +234,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Vaani-bisht/LeetCode-Questions/tree/master/0141-linked-list-cycle) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Vaani-bisht/LeetCode-Questions/tree/master/0237-delete-node-in-a-linked-list) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Vaani-bisht/LeetCode-Questions/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 <!---LeetCode Topics End-->
