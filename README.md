@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Vaani-bisht/LeetCode-Questions/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/Vaani-bisht/LeetCode-Questions/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/Vaani-bisht/LeetCode-Questions/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Vaani-bisht/LeetCode-Questions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/Vaani-bisht/LeetCode-Questions/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/Vaani-bisht/LeetCode-Questions/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Vaani-bisht/LeetCode-Questions/tree/master/0242-valid-anagram) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Vaani-bisht/LeetCode-Questions/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/Vaani-bisht/LeetCode-Questions/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Vaani-bisht/LeetCode-Questions/tree/master/0151-reverse-words-in-a-string) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Vaani-bisht/LeetCode-Questions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/Vaani-bisht/LeetCode-Questions/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Vaani-bisht/LeetCode-Questions/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/Vaani-bisht/LeetCode-Questions/tree/master/0287-find-the-duplicate-number) |
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Vaani-bisht/LeetCode-Questions/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/Vaani-bisht/LeetCode-Questions/tree/master/0148-sort-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Vaani-bisht/LeetCode-Questions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/Vaani-bisht/LeetCode-Questions/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Vaani-bisht/LeetCode-Questions/tree/master/0237-delete-node-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Vaani-bisht/LeetCode-Questions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
