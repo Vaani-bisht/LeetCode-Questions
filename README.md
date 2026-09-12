@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Vaani-bisht/LeetCode-Questions/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Vaani-bisht/LeetCode-Questions/tree/master/0009-palindrome-number) |
 | [0067-add-binary](https://github.com/Vaani-bisht/LeetCode-Questions/tree/master/0067-add-binary) |
 | [0202-happy-number](https://github.com/Vaani-bisht/LeetCode-Questions/tree/master/0202-happy-number) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Vaani-bisht/LeetCode-Questions/tree/master/0002-add-two-numbers) |
 | [0141-linked-list-cycle](https://github.com/Vaani-bisht/LeetCode-Questions/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/Vaani-bisht/LeetCode-Questions/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Vaani-bisht/LeetCode-Questions/tree/master/0160-intersection-of-two-linked-lists) |
@@ -251,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Vaani-bisht/LeetCode-Questions/tree/master/0002-add-two-numbers) |
 | [0234-palindrome-linked-list](https://github.com/Vaani-bisht/LeetCode-Questions/tree/master/0234-palindrome-linked-list) |
 ## Divide and Conquer
 |  |
