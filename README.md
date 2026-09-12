@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Vaani-bisht/LeetCode-Questions/tree/master/0455-assign-cookies) |
 | [0881-boats-to-save-people](https://github.com/Vaani-bisht/LeetCode-Questions/tree/master/0881-boats-to-save-people) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Vaani-bisht/LeetCode-Questions/tree/master/1679-max-number-of-k-sum-pairs) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Vaani-bisht/LeetCode-Questions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/Vaani-bisht/LeetCode-Questions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/Vaani-bisht/LeetCode-Questions/tree/master/2563-count-the-number-of-fair-pairs) |
 ## Stack
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Vaani-bisht/LeetCode-Questions/tree/master/0141-linked-list-cycle) |
 | [0234-palindrome-linked-list](https://github.com/Vaani-bisht/LeetCode-Questions/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Vaani-bisht/LeetCode-Questions/tree/master/0237-delete-node-in-a-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Vaani-bisht/LeetCode-Questions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Vaani-bisht/LeetCode-Questions/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Recursion
 |  |
