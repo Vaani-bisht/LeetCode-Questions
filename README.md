@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1587-bank-account-summary-ii](https://github.com/Vaani-bisht/LeetCode-Questions/tree/master/1587-bank-account-summary-ii) |
 | [1683-invalid-tweets](https://github.com/Vaani-bisht/LeetCode-Questions/tree/master/1683-invalid-tweets) |
 | [1693-daily-leads-and-partners](https://github.com/Vaani-bisht/LeetCode-Questions/tree/master/1693-daily-leads-and-partners) |
+| [1729-find-followers-count](https://github.com/Vaani-bisht/LeetCode-Questions/tree/master/1729-find-followers-count) |
 ## Simulation
 |  |
 | ------- |
