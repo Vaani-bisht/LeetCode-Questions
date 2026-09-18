@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1211-queries-quality-and-percentage](https://github.com/Vaani-bisht/LeetCode-Questions/tree/master/1211-queries-quality-and-percentage) |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/Vaani-bisht/LeetCode-Questions/tree/master/1327-list-the-products-ordered-in-a-period) |
 | [1587-bank-account-summary-ii](https://github.com/Vaani-bisht/LeetCode-Questions/tree/master/1587-bank-account-summary-ii) |
+| [1683-invalid-tweets](https://github.com/Vaani-bisht/LeetCode-Questions/tree/master/1683-invalid-tweets) |
 ## Simulation
 |  |
 | ------- |
